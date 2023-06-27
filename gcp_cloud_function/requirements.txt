@@ -1,0 +1,2 @@
+github==1.2.7
+requests==2.31.0
