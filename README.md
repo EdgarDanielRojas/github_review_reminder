@@ -8,7 +8,7 @@ GitHub Review Reminder is a solution that helps you monitor pull request reviews
 - Simple setup and deployment using Google Cloud Functions or AWS Lambda.
 
 ## Getting Started
-To get started with GitHub PR Review Alert, follow the instructions in the Installation Guide to set up the solution and configure the necessary components.
+To get started with GitHub Review Reminder, follow the instructions in the Installation Guide to set up the solution and configure the necessary components.
 
 ## Usage
 Once the solution is set up, it will automatically monitor open pull request reviews in your organization and send Slack notifications for reviews that have been pending for more than 3 days. You can customize the code and configuration to adjust the duration threshold or modify the notification behavior as needed.
